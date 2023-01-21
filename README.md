@@ -12,5 +12,5 @@
 * VictorSPX (https://v5.docs.ctr-electronics.com/en/stable/ch05a_CppJava.html) 
 * Pigeon 2.0 (https://store.ctr-electronics.com/content/user-manual/Pigeon2%20User's%20Guide.pdf) 
 * Limelight 2.0/3.0 (https://readthedocs.org/projects/limelight/downloads/pdf/latest/) 
-**   Firmware: (https://limelightvision.io/pages/downloads) 
+*   Firmware: (https://limelightvision.io/pages/downloads) 
 *   April tag code: (https://docs.limelightvision.io/en/latest/json_dump.html)
