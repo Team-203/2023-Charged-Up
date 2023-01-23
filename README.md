@@ -6,7 +6,7 @@
 * VRM 
 * Radio (Search for Radio Configuration tool/https://docs.wpilib.org/en/latest/docs/zero-to-robot/step-2/offline-installation-preparations.html#all-teams)
 * Radio ethernet hub 
-* RoboRIO (Checck desktop/searchbar for RIO imaging tool)
+* RoboRIO (Check desktop/searchbar for RIO imaging tool)
 * CANsparkMAX (https://docs.revrobotics.com/sparkmax/software-resources/spark-max-api-information#java-api) 
 * TalonSRX (https://v5.docs.ctr-electronics.com/en/stable/ch05a_CppJava.html)
 * VictorSPX (https://v5.docs.ctr-electronics.com/en/stable/ch05a_CppJava.html) 
